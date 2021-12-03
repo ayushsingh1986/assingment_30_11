@@ -1,0 +1,128 @@
+    /* .d-block {
+        float: right;
+        width: 200px;
+        height: 500px;
+    }
+    
+ 
+    
+    .carousel-caption {
+        text-align: end;
+        height: 70%;
+    }
+    
+    .text-color {
+        color: #62bfe6;
+        text-align:center;
+    } */
+    /* .container {
+        position: relative;
+        text-align: center;
+        color: white;
+      } */
+    
+    .blueclass {
+        background-color: #62bfe6;
+        width: 330px;
+        height: 400px;
+        margin-top: 0px;
+    }
+    
+    .card-text {
+        font-family: "Times New Roman", Times, serif;
+        color: #62bfe6;
+    }
+    
+    .text-font {
+        font-family: "Times New Roman", Times, serif;
+    }
+    
+    .dblueclass {
+        background-color: #62bfe6;
+        width: 330px;
+        height: 400px;
+        margin-top: 0px;
+    }
+    
+    .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+    }
+    
+    .navbar-light .navbar-nav .nav-link:focus,
+    .navbar-light .navbar-nav .nav-link:hover {
+        background-color: hsl(198, 94%, 50%);
+    }
+    /* .nav-link {
+            height: 75px;
+            padding-right: 2.3rem !important;
+            padding-left: 2.3rem !important;
+            padding-top: 1.3em;
+            font-weight: 600;
+            font-size: large;
+        }
+        
+        
+        
+        .nav-link.active {
+            background-color: rgb(98 191 230);
+        }
+        
+        .navbar {
+            padding-top: 0rem;
+            padding-bottom: 0rem;
+          
+        }
+        .nav-item{
+            margin-left: 15%;
+            margin-right: 10%;
+        }
+        
+        .carousel-item {
+            height: 550px;
+        }
+        
+        #carouselExampleControls {
+            height: 350px;
+            text-align: center;
+            background: gray;
+        }
+        .service-style{
+    margin-top: 30%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+        }
+       .container-style{
+            margin-left: 5%;
+            margin-right: 25%;
+        }
+
+       hr.hline{
+        border: 1px solid blue;
+
+        }
+        .container-fluid{
+            background-color: black;
+            height: 60px;
+            text-align: center;
+            color: white;
+        }
+        .container {
+            position: relative;
+            text-align: center;
+            color: white;
+          } */
+    
+    .footer-address {
+        margin-top: 100px;
+    }
+    
+    .carousel-item {
+        text-align: end;
+        color: #62bfe6;
+    }
+    
+    .d-block {
+        width: 50px;
+        height: 50px;
+    }
